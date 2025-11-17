@@ -1,0 +1,1346 @@
+Tweet Analysis Output
+=======================================
+
+Row 1
+Date        : 2025-11-17 06:56:57+00:00
+Tweet ID    : 1990313190832640264
+Text (ID)   : Dari pada rencana memperpanjang Kereta Cepat WHOOSH.
+Pemerintah pusat dan Pemda sebaiknya memperhatikan sarana jalan raya yg parah seperti ini.
+-
+Dua pelajar SMA di Mahakam Ulu, Kalimantan Timur, terjatuh dijalan yg berlumpur &amp; berjuang menggapai cita-citanya utk masa depan.😓😓 https://t.co/ur35TUYTXt
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.36822348833084106
+---------------------------------------
+
+Row 2
+Date        : 2025-11-17 06:59:30+00:00
+Tweet ID    : 1990313831264825655
+Text (ID)   : BUMN mana saja yang dimaksud? Apakah gara-gara utang Whoosh, BUMN ini bisa boncos? Lalu, bagaimana detail kerugiannya? #Ekonomi #AdadiKompas
+
+https://t.co/tgEzHhvwpU
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5786172151565552
+---------------------------------------
+
+Row 3
+Date        : 2025-11-17 07:01:41+00:00
+Tweet ID    : 1990314382463565880
+Text (ID)   : BUMN mana saja yang dimaksud? Apakah gara-gara utang Whoosh, BUMN ini bisa boncos? Lalu, bagaimana detail kerugiannya? #Ekonomi #AdadiKompas  
+  
+https://t.co/nVkaK6Pcge
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5813953876495361
+---------------------------------------
+
+Row 4
+Date        : 2025-11-17 07:03:58+00:00
+Tweet ID    : 1990314955787448445
+Text (ID)   : Whoosh ~ 
+*yg lain dah di depan awikwok https://t.co/lwgvC0diks
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.5288724303245544
+---------------------------------------
+
+Row 5
+Date        : 2025-11-17 07:11:55+00:00
+Tweet ID    : 1990316956516303124
+Text (ID)   : BUMN mana saja yang dimaksud? Apakah gara-gara utang Whoosh, BUMN ini bisa boncos? Lalu, bagaimana detail kerugiannya? #Ekonomi #AdadiKompas
+
+https://t.co/2jfLfJlq3U
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.591123104095459
+---------------------------------------
+
+Row 6
+Date        : 2025-11-17 07:12:49+00:00
+Tweet ID    : 1990317181469589802
+Text (ID)   : Bos KAI Yakin Kereta Cepat Whoosh akan Sampai ke Banyuwangi https://t.co/s1zIBNAGfW
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7171318531036377
+---------------------------------------
+
+Row 7
+Date        : 2025-11-17 07:23:26+00:00
+Tweet ID    : 1990319857095868876
+Text (ID)   : @Darmaningtyas Bahkan kalopun Pemerintah ngga bangun kereta cepat, apa jalanan daerah otomatis mulus kalo Pemdanya lemot? Apa otomatis dana kereta cepat dari Chinanya ada? Dana awalnya kan ada karena buat kereta. 
+
+Bahkan MRT Jakarta, Trans Jakarta, kan inisiatif Gubernurnya.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5989332795143127
+---------------------------------------
+
+Row 8
+Date        : 2025-11-17 07:33:09+00:00
+Tweet ID    : 1990322298721902683
+Text (ID)   : @ardisatriawan Kalo benar, ga butuh whoosh donk? ^_^
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.4644427001476288
+---------------------------------------
+
+Row 9
+Date        : 2025-11-17 07:38:29+00:00
+Tweet ID    : 1990323644787311030
+Text (ID)   : @amyoramore @mohmahfudmd Milik bumn. Cm buat paan? Kcic ruginya 7T th 2024. Th ini jg bakal rugi 5-6T
+
+🤣🤣🤣
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.7177414298057556
+---------------------------------------
+
+Row 10
+Date        : 2025-11-17 07:43:49+00:00
+Tweet ID    : 1990324983655256493
+Text (ID)   : @amyoramore @mohmahfudmd Kcic itu BUKAN BUMN, jd gk bs diklaim milik negara. Negara mana? China? Komut kcic WNA china, direksinya jg ada yg WNA China 🤣
+
+Milik negara mana? Kocak
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.7975291609764099
+---------------------------------------
+
+Row 11
+Date        : 2025-11-17 07:52:52+00:00
+Tweet ID    : 1990327260516327612
+Text (ID)   : Proses Hukum Tetap tidak ada Toleransi ansi ☺️
+
+Prabowo Tanggung Utang Whoosh Tak Bisa Stop Kasus, Mahfud: Dibayar Bukan Berarti Nggak Ada Korupsi https://t.co/avUuhWTdrZ
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5432245135307312
+---------------------------------------
+
+Row 12
+Date        : 2025-11-17 07:57:55+00:00
+Tweet ID    : 1990328531822559405
+Text (ID)   : @zhil_arf padahal china juga seperti ini, bedanya, gak langsung kereta cepat, atau bandara megah, tetapi kereta perkotaan dulu, meskipun belum ada penduduk disiapin infranya
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5158249735832214
+---------------------------------------
+
+Row 13
+Date        : 2025-11-17 08:02:04+00:00
+Tweet ID    : 1990329575960948790
+Text (ID)   : Preman, asli!
+
+https://t.co/mVkMeeFjin
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6053493618965149
+---------------------------------------
+
+Row 14
+Date        : 2025-11-17 08:03:31+00:00
+Tweet ID    : 1990329943490998387
+Text (ID)   : @casajoye iyaa plss mahal bgt buat bayar utang whoosh pasti
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6676568984985352
+---------------------------------------
+
+Row 15
+Date        : 2025-11-17 08:05:01+00:00
+Tweet ID    : 1990330318667350029
+Text (ID)   : Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam), Mahfud MD,  memberi pesan khusus untuk Menteri Keuangan, Purbaya Yudhi Sadewa.
+
+https://t.co/KJNVyVx4YN
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7042875289916992
+---------------------------------------
+
+Row 16
+Date        : 2025-11-17 08:09:25+00:00
+Tweet ID    : 1990331426898862274
+Text (ID)   : @BrownisMatcha_ cukup tapi jgn naik whoosh PP, travel aja yg 100an
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7668616771697998
+---------------------------------------
+
+Row 17
+Date        : 2025-11-17 08:13:54+00:00
+Tweet ID    : 1990332555112136984
+Text (ID)   : @AgusSud22579681 Ya berarti fix jokowi itu idiot kalo ngikutin kemauan kalian
+
+Justru tiroris akan semakin punya senjata sampai 2029
+"Kami udah liat kok ternyata palsu"
+Hakimnya ya tiroris sendiri
+
+Dahlah mending AHY fokus berprestasi aja segera bikin feasibility study kereta cepat sd Banyuwangi
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6514712572097778
+---------------------------------------
+
+Row 18
+Date        : 2025-11-17 08:18:23+00:00
+Tweet ID    : 1990333683027607937
+Text (ID)   : @bronispait @havisman @ferrykoto @jokowi Ya jangan dong, whoosh kan proyek dan ambisi geng solo. Biar saja mrk yg selesaikan. APBN cuma buat kemaslahatan rakyat seluruh Indonesia, seperti perbaikan jalan² negara agar anak² dan guru² sekolah tidak celaka. Banyak kaannn videonya? RI7 cuek, semoga RI8 tidak
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5942062735557556
+---------------------------------------
+
+Row 19
+Date        : 2025-11-17 08:18:42+00:00
+Tweet ID    : 1990333762316710284
+Text (ID)   : @txtdrimedia daripada mematikan peternakan lokal, mending buat bayar itu utang whoosh, kayanya danantara isinya orang2 kebelet korup biar pas ditinggal mati, dia masuk nerakanya bareng2 sama anak cucu
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8779036402702332
+---------------------------------------
+
+Row 20
+Date        : 2025-11-17 08:26:11+00:00
+Tweet ID    : 1990335648310677779
+Text (ID)   : eh?! kenapa sekarang whoosh gabisa beli pake mesin siiiiikkkk???? kenapa harus full dialihin digitalisasi?
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.7889955043792725
+---------------------------------------
+
+Row 21
+Date        : 2025-11-17 08:26:43+00:00
+Tweet ID    : 1990335781941219453
+Text (ID)   : padahal lebih enak beli dadakan pas nyampe kcic trus cetak di mesin :(
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.7362752556800842
+---------------------------------------
+
+Row 22
+Date        : 2025-11-17 08:27:03+00:00
+Tweet ID    : 1990335866133471602
+Text (ID)   : JAKARTA - BANDUNG MENIKMATI KERETA WHOOSH
+
+Stasiun Halim Jakarta buka loket dari jam 05.30 WIB
+Tarif Jakarta Bandung Rp250.000/orang ekonomi
+Waktu tempuh saat ini 45 menit Halim - Tegalluar
+Stasiun Whoosh saat ini :
+
+Halim - Karawang - Padalarang - Tegalluar https://t.co/qFvslFXUAm
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.896784782409668
+---------------------------------------
+
+Row 23
+Date        : 2025-11-17 08:34:55+00:00
+Tweet ID    : 1990337844137845215
+Text (ID)   : Sebelum mamah bapa gak ada cuma pengen ngajak mereka nyobain kereta cepat, LRT, MRT, jalan-jalan di Jakarta. Lihat monas, shalat di istiqlal. Bismillah goals taun depan deh.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.49470943212509155
+---------------------------------------
+
+Row 24
+Date        : 2025-11-17 08:46:55+00:00
+Tweet ID    : 1990340862602342759
+Text (ID)   : @yusufgunawan @teddykusumaw81 @PemkotMalang @KAI121 @EmilDardak @infomalang @Malangraya_info Akeh sing rusak &amp; bahaya ndek endi2, koyok ndek Kebalen &amp; Fly over Kotalama, mungkin anggaran biaya perbaikan e wes kesedot gae bayar utang Whoosh 😄
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6074416637420654
+---------------------------------------
+
+Row 25
+Date        : 2025-11-17 08:50:05+00:00
+Tweet ID    : 1990341660908388403
+Text (ID)   : Lihat video lina! #TikTok https://t.co/lwp9qxtNwp
+
+Anak anak saya pasti ikut jejak saya ga mungkin ikut jejak whoosh
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.6125632524490356
+---------------------------------------
+
+Row 26
+Date        : 2025-11-17 08:51:05+00:00
+Tweet ID    : 1990341914575663462
+Text (ID)   : ..dari pada peyan jadi pahlawan bayarin hutangnya whoosh sekian ratus triliun, lebih pantas peyan jadi pahlawan buat anak bangsa. bangun infrastruktur di pelosok negeri demi mereka.
+..tanggung jawab kok ke hutangnya bajingan tolol itu? kenapa bukan ke rakyat?
+
+@prabowo 
+@Gerindra https://t.co/yuoNbz2NlC
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6810404658317566
+---------------------------------------
+
+Row 27
+Date        : 2025-11-17 08:51:12+00:00
+Tweet ID    : 1990341940492284216
+Text (ID)   : @semurbetawi_ Mungkin whoosh bisa dipasang disini kak
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.788607656955719
+---------------------------------------
+
+Row 28
+Date        : 2025-11-17 08:59:57+00:00
+Tweet ID    : 1990344142673854842
+Text (ID)   : Cina gak rugi apa2. Yg rugi Indonesia. Apa ruginya Cina? Apa iya Cina merasa rugi? Ada sejumlah analisis yang mengkhawatirkan bahwa Cina memaksakan proyek kereta cepat ini untuk mendapatkan barter Pulau/Kepulauan Natuna 
+#AdiliJokowiGibran 
+#AdiliJokowiGibran https://t.co/pOxfJ6h21X https://t.co/ydgEUDAUYe
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8612766265869141
+---------------------------------------
+
+Row 29
+Date        : 2025-11-17 09:01:33+00:00
+Tweet ID    : 1990344547046695064
+Text (ID)   : @Rochman1974 @awikuchuz Cuci tangan...? Maksudnya whoosh, ikn...??? 😆😆😆
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.46384739875793457
+---------------------------------------
+
+Row 30
+Date        : 2025-11-17 09:02:16+00:00
+Tweet ID    : 1990344729498939530
+Text (ID)   : @randomable_ Malah bikin whoosh 🙂‍↕️ jkw jkw
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.6689565181732178
+---------------------------------------
+
+Row 31
+Date        : 2025-11-17 09:16:25+00:00
+Tweet ID    : 1990348288974077996
+Text (ID)   : mkzs- Hai semua kalian masih cari wh ch? 
+sini bisa banget pake wh @skyland_whoosh lagi open hc juga loh yukk buruan join
+📍Tangerang
+https://t.co/KDmENNzxnw
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6849023103713989
+---------------------------------------
+
+Row 32
+Date        : 2025-11-17 09:20:49+00:00
+Tweet ID    : 1990349396136092097
+Text (ID)   : Bersaing dengan Kereta Cepat Whoosh, Begini Nasib KA Parahyangan
+
+https://t.co/0baa3mGFrl
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5087157487869263
+---------------------------------------
+
+Row 33
+Date        : 2025-11-17 09:22:48+00:00
+Tweet ID    : 1990349894339776817
+Text (ID)   : @mohmahfudmd Selama manusia2 korup di KPK dan Kapolrinya masih Jongos2nya Mulyono, mustahil kasus Korupsi jereta cepat Whoosh bakal berjalan dengan semestinya pak..Mereka para bajingsn itu ngga bakal berani, Ganti semua..itu baru bisa!!!
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.824070930480957
+---------------------------------------
+
+Row 34
+Date        : 2025-11-17 09:28:10+00:00
+Tweet ID    : 1990351244427485260
+Text (ID)   : komentar dari pengamat politik Jepang menyoroti kondisi KCIC Whoosh yang dinilai terus merugi. Data yang dibahas menyebut penggunaan harian jauh di bawah target, biaya operasional membengkak, dan stasiun yang dinilai kurang strategis membuat pendapatan sulit tercapai. Situasi ini https://t.co/lech1lQfpa
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.9183558821678162
+---------------------------------------
+
+Row 35
+Date        : 2025-11-17 09:28:47+00:00
+Tweet ID    : 1990351399557955930
+Text (ID)   : Nikah Siri dalam Kacamata Islam
+
+#UmrahKeluarga #UmrahBersamaKeluarga #KHHafidzAbdurrahman #nikahsiri #senin #hariayah #bobibos #pahlawannasional #sman72 #zohranmamdani #whoosh #kpk #roysuryo https://t.co/TmNXRRDhxA
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5455254912376404
+---------------------------------------
+
+Row 36
+Date        : 2025-11-17 09:33:59+00:00
+Tweet ID    : 1990352711183900935
+Text (ID)   : Menteri Keuangan Purbaya Yudhi Sadewa menjelaskan perkembangan skema penyelesaian utang proyek kereta cepat Whoosh. Ia menyebut pembahasan terbaru mengarah pada pembagian peran antara pemerintah dan BPI Danantara. Kemenkeu kemungkinan hanya menangani infrastruktur seperti jalan https://t.co/bOV2t4pqGG
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6163462400436401
+---------------------------------------
+
+Row 37
+Date        : 2025-11-17 09:36:19+00:00
+Tweet ID    : 1990353296788471974
+Text (ID)   : @GNFI Berita tolol macam gini ternyata muncul juga klo kita buka google.
+Kebanyakan orang komennya related dgn keberadaan KCIC.
+Klo guwah mah komennya tu deu poin ajah.
+
+LU KALAU NGEBOHONG JANGAN KELEWATAN...
+LU PIKIR SAINDONESIA BODONYA SAMA KAYA TERMUL ??
+https://t.co/mXBksIr73O
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8247929811477661
+---------------------------------------
+
+Row 38
+Date        : 2025-11-17 09:41:25+00:00
+Tweet ID    : 1990354578140016839
+Text (ID)   : Merch tergokil, tdnya mau ganci kcic juga. cuman y mau awak gantung mana.. tas dah penuh 😭 https://t.co/2absH2ipoc
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.34080377221107483
+---------------------------------------
+
+Row 39
+Date        : 2025-11-17 09:41:44+00:00
+Tweet ID    : 1990354659102576817
+Text (ID)   : Menolak lupa: 
+kcic tidak gunakan apbn, tidak ada jaminan dari pemerintah https://t.co/UEsQCOSUF7
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6686630249023438
+---------------------------------------
+
+Row 40
+Date        : 2025-11-17 09:44:06+00:00
+Tweet ID    : 1990355254077235694
+Text (ID)   : Untuk menyeret Jokowi dlm kasus Whoosh, KPK tunggu lampu hijau dari Prabowo. Untuk eksekusi Silfester, Kejaksaan tunggu lampu hijau dari siapa??
+
+Institusi Termul menyebabkan rusaknya tatanan hukum Indonesia. https://t.co/aCkQA56R6Z
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8636030554771423
+---------------------------------------
+
+Row 41
+Date        : 2025-11-17 09:47:09+00:00
+Tweet ID    : 1990356022373023765
+Text (ID)   : Bawa bawa whoosh yg emang lagi gak ada hubungannya samsek dengan whoosh gw mute, karna Highlight lo jadinya ngomongin whoosh...
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.637232780456543
+---------------------------------------
+
+Row 42
+Date        : 2025-11-17 09:47:28+00:00
+Tweet ID    : 1990356101938938194
+Text (ID)   : KAI optimistis dapat menjalankan instruksi Presiden Prabowo untuk memperpanjang rute kereta cepat hingga Banyuwangi. Dirut KAI Bobby Rasyidin menyebut okupansi Whoosh terus naik dan operasional stabil. Pemerintah masih menyiapkan skema penyelesaian utang KCIC, sementara negosiasi https://t.co/DGgWRHTaoF
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.70307457447052
+---------------------------------------
+
+Row 43
+Date        : 2025-11-17 10:03:05+00:00
+Tweet ID    : 1990360030793945454
+Text (ID)   : @DedynurPalakka Bagaimana dengan data bahwa Whoosh itu rugi sekian triliun??!
+Data sahih kan itu...
+Siapa inisiasi nya?! Bisa diseret kan??! 
+
+Jokowisme adalah sesat.
+Tidak ada ajaran itu, aliran itu.
+Bahkan dianggap setara Nabi.
+
+Moral macam apa itu, belum mbahas kejadian di MK klo soal moral
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8511952757835388
+---------------------------------------
+
+Row 44
+Date        : 2025-11-17 10:12:27+00:00
+Tweet ID    : 1990362389012004868
+Text (ID)   : @iwanfals Buat bayar bunga whoosh aja
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5947093963623047
+---------------------------------------
+
+Row 45
+Date        : 2025-11-17 10:23:08+00:00
+Tweet ID    : 1990365079846670705
+Text (ID)   : - KPK Selidiki Pembebasan Lahan Proyek Kereta Cepat Whoosh
+baca selengkapnya di https://t.co/gysvbvBZ4U https://t.co/ahPi2t2txw
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.8152786493301392
+---------------------------------------
+
+Row 46
+Date        : 2025-11-17 10:23:41+00:00
+Tweet ID    : 1990365216220311871
+Text (ID)   : Kereta cepat apa Jalan di pelosok negeri https://t.co/oV9FaTMGkZ
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.8413201570510864
+---------------------------------------
+
+Row 47
+Date        : 2025-11-17 10:38:23+00:00
+Tweet ID    : 1990368916288479727
+Text (ID)   : Baca artikel ini dan share pendapat kalian di kolom komentar!
+https://t.co/vJvSbng4TR
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7594735026359558
+---------------------------------------
+
+Row 48
+Date        : 2025-11-17 10:53:02+00:00
+Tweet ID    : 1990372602830033380
+Text (ID)   : @RikeSants NGAWUR. 
+Jepang iri, negara2 lain di Asia Tenggara pilih China, setelah WHOOSH jadi.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.9287744164466858
+---------------------------------------
+
+Row 49
+Date        : 2025-11-17 10:55:14+00:00
+Tweet ID    : 1990373156402626641
+Text (ID)   : Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menegaskan bahwa negara harus tetap membayar utang proyek kereta cepat Jakarta-Bandung atau Whoosh .
+
+Hal ini dikarenakan transaksi proyek Whoosh dilaksanakan sesuai aturan undang-undang. https://t.co/PUKsfaCC3V
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7131726741790771
+---------------------------------------
+
+Row 50
+Date        : 2025-11-17 10:56:18+00:00
+Tweet ID    : 1990373424271601894
+Text (ID)   : Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menegaskan bahwa negara harus tetap membayar utang proyek kereta cepat Jakarta-Bandung atau Whoosh .
+
+Hal ini dikarenakan transaksi proyek Whoosh dilaksanakan sesuai aturan undang-undang. https://t.co/6QqIcuNc8v
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7067273855209351
+---------------------------------------
+
+Row 51
+Date        : 2025-11-17 11:00:47+00:00
+Tweet ID    : 1990374551180743019
+Text (ID)   : Makin Banyak yang Naik KA Parahyangan Meski Sudah Ada Kereta Cepat https://t.co/GaUdqZqeNJ
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7063778042793274
+---------------------------------------
+
+Row 52
+Date        : 2025-11-17 11:02:00+00:00
+Tweet ID    : 1990374857566240871
+Text (ID)   : KCIC II - 19. Menggoda Pegawai Gudang
+https://t.co/NmvLTSY8mf
+
+Ideku untuk menggoda pegawai di sebuah gudang di dekat kosan yang begitu menarik bagiku. Berdasarkan saran dari internet kini aku lakukan.
+Dan ternyata, semua terbukti benar, tepat, akurat!
+
+https://t.co/pzoLHEaWic https://t.co/M9ZjrduPif
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.7315508127212524
+---------------------------------------
+
+Row 53
+Date        : 2025-11-17 11:06:16+00:00
+Tweet ID    : 1990375931035505106
+Text (ID)   : @RikeSants Nyesek banget buat dijadiin bahan pembelajaran negara2 di asia.
+"Kalo mau bikin kereta cepat pikirkan baik2 jangan sampe kejadian kaya indonesia".
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.925945520401001
+---------------------------------------
+
+Row 54
+Date        : 2025-11-17 11:08:28+00:00
+Tweet ID    : 1990376487527350443
+Text (ID)   : Melihat Stasiun Shenzhenbei (Shenzhen North) buat naik kereta cepat pulang dari Shenzhen ke Hong Kong
+
+Melihat skala stasiun kereta cepat di China yang sebesar ini sebenernya menunjukkan stasiun Halim sebetulnya untuk standar Tiongkok itu gak besar-besar amat 😅 https://t.co/sx1a0q5ljO
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.47324514389038086
+---------------------------------------
+
+Row 55
+Date        : 2025-11-17 11:12:57+00:00
+Tweet ID    : 1990377614096404982
+Text (ID)   : Melihat Stasiun Shenzhenbei (Shenzhen North) buat naik kereta cepat pulang dari Shenzhen ke Hong Kong
+
+Melihat skala stasiun kereta cepat di China yang sebesar ini sebenernya menunjukkan stasiun Halim sebetulnya untuk standar Tiongkok itu gak besar-besar amat 😅 https://t.co/5H15AUMpKG
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.511031985282898
+---------------------------------------
+
+Row 56
+Date        : 2025-11-17 11:26:20+00:00
+Tweet ID    : 1990380984769081548
+Text (ID)   : @AiraNtiePuspa Semoga kebenaran bisa menang.
+Sehingga negara tak perlu membiayai kehidupan Jokowi,dan hutang bisnis Whoosh bisa di tanggung secara pribadi oleh Jokowi.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.4148324728012085
+---------------------------------------
+
+Row 57
+Date        : 2025-11-17 11:33:02+00:00
+Tweet ID    : 1990382669730087082
+Text (ID)   : Nif lu ketinggalan whoosh ya https://t.co/NLem3h6W3H
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5953153967857361
+---------------------------------------
+
+Row 58
+Date        : 2025-11-17 11:39:35+00:00
+Tweet ID    : 1990384316074115440
+Text (ID)   : @ARSIPAJA Cepat2 ujungnya keracunan
+Cepat2 ujungnya beban apbn: ikn, whoosh
+Makanya riset dulu wok, makanya knp gw pilih politisi dgn latar belakang akademisi
+Biar gak bikin kebijakan seenak jidat
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.7881039381027222
+---------------------------------------
+
+Row 59
+Date        : 2025-11-17 11:44:15+00:00
+Tweet ID    : 1990385490093060146
+Text (ID)   : Tidak bangun kereta ce[at saja jalanan luar Jawa buruk, apalagi bangun kereta cepat Bandung - Surabaya - Banyuwangi, jalanan di luar Jawa makin tidak diperhatiin krn APBN sektor transportasi habis untuk mensubsidi kereta cepat. INDONESIA BUKAN HANYA JAWA, itu yg terpenting https://t.co/EsI1r80sKk
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.9216804504394531
+---------------------------------------
+
+Row 60
+Date        : 2025-11-17 11:46:41+00:00
+Tweet ID    : 1990386106299510979
+Text (ID)   : @flowvva bayarin tiket whoosh tapiii  🥺🫶🏻
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.463478147983551
+---------------------------------------
+
+Row 61
+Date        : 2025-11-17 11:46:44+00:00
+Tweet ID    : 1990386115589685629
+Text (ID)   : Memang Dana Desa cukup untuk membangun infrastruktur transportasi? Penggunaan Dana Desa kan udah ada aturannya, untuk apa saja. Di Jawa juga ada pemimpinnya (Gubernur/Bupati/Walikota), kalau gitu tdk perlu campur tangan pusat dong bangun kereta cepat https://t.co/TcApD7tPyS
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5213675498962402
+---------------------------------------
+
+Row 62
+Date        : 2025-11-17 11:47:52+00:00
+Tweet ID    : 1990386403700572513
+Text (ID)   : # cek sekarang ada informasi penting
+
+Kata Purbaya soal Skema Utang Whoosh: Kalau Saya Mending Gak Bayar https://t.co/aPrUFLWQNX
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.8568079471588135
+---------------------------------------
+
+Row 63
+Date        : 2025-11-17 11:53:37+00:00
+Tweet ID    : 1990387848969699739
+Text (ID)   : Whoosh bukan cuma bikin negara boncos, tapi jg membebani BUMN WIKA. Dirut WIKA mengungkap perusahaan masih menanggung rugi lebih dari Rp 6,1 triliun akibat keterlibatannya di proyek itu.
+.
+.
+.
+.
+Operasi Zebra 2025 Senin Apel Pagi Polda Jawa Tengah wakil Indonesia Cerdas. https://t.co/vl829qsOIW
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8532480001449585
+---------------------------------------
+
+Row 64
+Date        : 2025-11-17 12:03:17+00:00
+Tweet ID    : 1990390282148274320
+Text (ID)   : Penyelidikan Korupsi Proyek Kereta Cepat Whoosh Diduga untuk Lindungi Jokowi https://t.co/KeUGbLjdoQ
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6350295543670654
+---------------------------------------
+
+Row 65
+Date        : 2025-11-17 12:06:42+00:00
+Tweet ID    : 1990391143675088962
+Text (ID)   : Apa seperti KCIC ini biayanya membengkak jauh dari dana awal https://t.co/qizayOw8tf
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6864043474197388
+---------------------------------------
+
+Row 66
+Date        : 2025-11-17 12:10:27+00:00
+Tweet ID    : 1990392083631243273
+Text (ID)   : @gan_deden @PRFMnews Kereta cepat sekarang saja dari segmen Karawang sampai Tegal Luar saja banyak bikin jembatan dan terowongan yang rata² panjang, belum berurusan dengan kondisi geologi alam.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5780224800109863
+---------------------------------------
+
+Row 67
+Date        : 2025-11-17 12:13:55+00:00
+Tweet ID    : 1990392958776926545
+Text (ID)   : @KAI121 ini seriusan tiket sby jkt semahal ini? Peak season tahun lalu keknya masih normal deh, ga sampe segini harganya, buat bayar hutang whoosh kah?
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6639630794525146
+---------------------------------------
+
+Row 68
+Date        : 2025-11-17 12:14:28+00:00
+Tweet ID    : 1990393098250105238
+Text (ID)   : The real WHOOSH 🫣
+Lengah dikit auto nyungsep
+Jalanan yg semestinya bisa dibenahi dg anggaran WHOOSH https://t.co/jlJvgb7Qpj
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.3522295653820038
+---------------------------------------
+
+Row 69
+Date        : 2025-11-17 12:16:05+00:00
+Tweet ID    : 1990393504153890915
+Text (ID)   : Nah lho!! Whoosh dibahas di jepang. 
+🙄🫢😱🤔🙊 https://t.co/HpGRCAAaaU
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.4207594394683838
+---------------------------------------
+
+Row 70
+Date        : 2025-11-17 12:23:00+00:00
+Tweet ID    : 1990395245528293841
+Text (ID)   : @CheGueva12345 Di SS aja, ntar kalau whoosh sukses kasih ss an twit nya😂...
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.4647580683231354
+---------------------------------------
+
+Row 71
+Date        : 2025-11-17 12:28:00+00:00
+Tweet ID    : 1990396500871139466
+Text (ID)   : TPDI Sebut Penyelidikan Korupsi Proyek Kereta Cepat Whoosh Diduga untuk Lindungi Jokowi
+https://t.co/4XYdphK97o
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5537280440330505
+---------------------------------------
+
+Row 72
+Date        : 2025-11-17 12:28:31+00:00
+Tweet ID    : 1990396633591271555
+Text (ID)   : Dengan kondisi whoosh yg terus merugi seperti sekarang ink, Jepang merasa beruntung tidak dipilih. Lihat saja penumpang whoosh hanya 1/3 dari target. Senentara biaya operasional 1,3 kali lebih mahal. 
+
+Manusia keras kepala 👇 yg tidak mau mendengar 
+
+https://t.co/OAouQSHt63
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8993551135063171
+---------------------------------------
+
+Row 73
+Date        : 2025-11-17 12:28:31+00:00
+Tweet ID    : 1990396633851302265
+Text (ID)   : haduh ga sabar libur rasanya kaki aku ingin jalan mengarah ke whoosh mulu😊😊✌🏻✌🏻
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.5670976042747498
+---------------------------------------
+
+Row 74
+Date        : 2025-11-17 12:29:58+00:00
+Tweet ID    : 1990396997958844450
+Text (ID)   : Penerjemah kcic https://t.co/BjnanzeRrf
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.8941768407821655
+---------------------------------------
+
+Row 75
+Date        : 2025-11-17 12:32:29+00:00
+Tweet ID    : 1990397630258516091
+Text (ID)   : nasehat yg baik dan bijak dari bawahannya  dan masyarakat indonesia. Whoosh adalah keinginan jokowi bukan keinginan rakyat, rakyat masih upah umr saja, gaya2an pingin punya whoosh!!  Makmurkan dulu rakyatnya,supaya upahnya bisa lebih dari umr sehingga setiap orang bisa beli tiket
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : positive
+Probability : 0.4951217472553253
+---------------------------------------
+
+Row 76
+Date        : 2025-11-17 12:33:57+00:00
+Tweet ID    : 1990398000632336828
+Text (ID)   : kereta cepat. Ingat jangan bayar hutang whoosh pakai apbn!! https://t.co/FIf6mveQV3
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6506625413894653
+---------------------------------------
+
+Row 77
+Date        : 2025-11-17 12:35:00+00:00
+Tweet ID    : 1990398262646579295
+Text (ID)   : KPK mengungkap penyelidikan dugaan korupsi dalam proyek kereta cepat Jakarta-Bandung. Sejumlah saksi telah diperiksa terkait pengadaan lahan. https://t.co/RkRdSIIIbw
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6130316257476807
+---------------------------------------
+
+Row 78
+Date        : 2025-11-17 12:36:39+00:00
+Tweet ID    : 1990398680780681352
+Text (ID)   : @mantabcoo @6_arung @TheThanos_100 Percayalah biaya kontruksi sudah setara kereta cepat, muke gila harus banyak bikin terowongan dan jembatan hanya untuk kereta biasa 🗿.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6001138687133789
+---------------------------------------
+
+Row 79
+Date        : 2025-11-17 12:46:44+00:00
+Tweet ID    : 1990401217126654169
+Text (ID)   : Bos KCIC Temui Airlangga, Restrukturisasi Utang Whoosh Diserahkan ke Danantara
+
+https://t.co/02tPOtejG2
+
+#Bandung #Danantara #Jakarta #KCIC #bitvonline
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7762488722801208
+---------------------------------------
+
+Row 80
+Date        : 2025-11-17 12:48:27+00:00
+Tweet ID    : 1990401648288489544
+Text (ID)   : gila negara korupsi indonesia (nkri) ini 😡 https://t.co/cmQxRpSV3Q
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.9173022508621216
+---------------------------------------
+
+Row 81
+Date        : 2025-11-17 12:50:55+00:00
+Tweet ID    : 1990402267476856999
+Text (ID)   : Juru Bicara KPK Budi Prasetyo menyatakan bahwa modus kasus ini masih dalam penyelidikan. Namun, diduga negara membeli kembali tanah yang dijual yang dipelukan untuk pembangunan proyek ini.
+
+👉🏻Baca selengkapnya https://t.co/KTjx0kn33b
+
+~AM #Whoosh #KPK #Korupsi https://t.co/KMgLrFFpAR
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5263627171516418
+---------------------------------------
+
+Row 82
+Date        : 2025-11-17 12:52:53+00:00
+Tweet ID    : 1990402765655310528
+Text (ID)   : @antaranews Tak ada yg tau apa yg terjadi esok ,bulan depan ,tahun depan ..
+2029 masih jauh ..
+Sudah bicara pilpres (kemenangan /terpilih kembali😀?) ..
+
+Baik pikir dr mana uang buat bayar utang Whoosh 116 T,warisan Jokosolo 🙃?
+
+Benar uang dr Koruptor ??
+
+Itu lbh realistis di bahas !!!
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.4978655278682709
+---------------------------------------
+
+Row 83
+Date        : 2025-11-17 12:55:14+00:00
+Tweet ID    : 1990403356628591042
+Text (ID)   : semoga lrt/mrt ada diseluruh kota (minimal seluruh daerah jkt dulu)… terus kcic pls bgt kalo jadi sampe banyuwangi pls lewatin jogja 😆 bandara yia jauh ah magerr
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.49313807487487793
+---------------------------------------
+
+Row 84
+Date        : 2025-11-17 12:58:58+00:00
+Tweet ID    : 1990404296513360278
+Text (ID)   : @AiraNtiePuspa Bener banget kak, sia sia bikin whoosh dan bangun IKN sementara jalan masih sprti ini
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5085680484771729
+---------------------------------------
+
+Row 85
+Date        : 2025-11-17 13:00:33+00:00
+Tweet ID    : 1990404691423830341
+Text (ID)   : @Gerindra Ohh kirain buat bayar hutang Whoosh😂
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5002319812774658
+---------------------------------------
+
+Row 86
+Date        : 2025-11-17 13:02:24+00:00
+Tweet ID    : 1990405160342810946
+Text (ID)   : @SammiSoh Whoosh khusus buat mereka yg mau liburan ke bandung .
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6563985347747803
+---------------------------------------
+
+Row 87
+Date        : 2025-11-17 13:02:37+00:00
+Tweet ID    : 1990405214134743251
+Text (ID)   : *Gibran RI-2 dan Whoosh: Cermin Publik yang Menolak, tapi Tetap Membiarkan* 
+
+https://t.co/MAzKNSMi2Z
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.6567047238349915
+---------------------------------------
+
+Row 88
+Date        : 2025-11-17 13:10:29+00:00
+Tweet ID    : 1990407194274115812
+Text (ID)   : Perbandingan Kereta Whoosh vs Maglev Jepang Dipersoalkan Ekonom PEPS
+
+Ekonom senior Political Economy and Policy Studies (PEPS), Anthony Budiawan, menanggapi tulisan mantan Menteri BUMN Laksamana Sukardi berjudul “Debat Kusir Whoosh” yang membandingkan biaya proyek Kereta Whoosh https://t.co/CtEejHs4yn
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.7614885568618774
+---------------------------------------
+
+Row 89
+Date        : 2025-11-17 13:10:31+00:00
+Tweet ID    : 1990407199638835442
+Text (ID)   : Anthony menilai perbandingan tersebut keliru dan menyesatkan.
+
+Tiga Alasan Utama Anthony
+
+🔹 1. Teknologi Berbeda Jauh
+“Maglev itu melayang dan jauh lebih kompleks daripada Whoosh yang masih berbasis roda. Jadi, nothing to compare.”
+
+🔹 2. Kecepatan Tidak Setara
+Maglev: 500–600 https://t.co/tSkSZzmRqJ
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6377910375595093
+---------------------------------------
+
+Row 90
+Date        : 2025-11-17 13:10:32+00:00
+Tweet ID    : 1990407206404325647
+Text (ID)   : Anthony menilai penyamaan kedua proyek itu misleading.
+
+Ia bahkan mempertanyakan apakah kekeliruan tersebut sengaja dibuat untuk mendiskreditkan para pengkritik proyek Whoosh—termasuk yang mendorong penyelidikan hukum dugaan mark-up dan korupsi.
+
+“Atau memang ada tujuan atau
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8478052020072937
+---------------------------------------
+
+Row 91
+Date        : 2025-11-17 13:11:27+00:00
+Tweet ID    : 1990407436998455459
+Text (ID)   : @pieteriskandar0 @awikuchuz Bosen dengerin Indosat terus yg dibicarakan
+Padahal Whoosh nilai korupsinya besar sekali
+Tidak ada keuntungan yg diambil Bu Mega sebagai konsekuensi penjualan Indosat
+Dan katanya ada yg mau buyback Indosat realisasinya ga ada
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.9015148282051086
+---------------------------------------
+
+Row 92
+Date        : 2025-11-17 13:13:10+00:00
+Tweet ID    : 1990407867778683316
+Text (ID)   : Min @KAI121 , beneran nih tiket Whoosh awal Desember rute Halim - Padalarang &amp; sebaliknya udh habis semua? Atau ini aplikasinya lg error? 😞
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.6769367456436157
+---------------------------------------
+
+Row 93
+Date        : 2025-11-17 13:15:00+00:00
+Tweet ID    : 1990408329244430554
+Text (ID)   : Bengkak Anggaran Kereta Cepat Whoosh Tembus 22 Persen, Menteri BUMN Era Megawati: Sangat Tak Wajar!
+https://t.co/EB34Sqa1H0
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.867222785949707
+---------------------------------------
+
+Row 94
+Date        : 2025-11-17 13:21:52+00:00
+Tweet ID    : 1990410056030879984
+Text (ID)   : @bagindo_kopi Kalau di pikir persis kita buat kereta cepat dari hutang ,kalau tidak kuat bayar cicilan ,bisa banyak aset negara tergadai , ingat srilanka.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.5443421006202698
+---------------------------------------
+
+Row 95
+Date        : 2025-11-17 13:22:09+00:00
+Tweet ID    : 1990410129582231744
+Text (ID)   : @Strategi_Bisnis ada yg bikin tulisan 5 skenario kebangkrutan kereta cepat whoosh nih om @ferrykoto
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.4481777846813202
+---------------------------------------
+
+Row 96
+Date        : 2025-11-17 13:22:38+00:00
+Tweet ID    : 1990410250566963456
+Text (ID)   : @Galihholic_87 @Zeefire02 Eh termul brengsek keluarin foto aseli lo sialan biar terpampang wajah tolol lo anjing. Sama sekalian bayar hutang Whoosh anjing.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.8727781176567078
+---------------------------------------
+
+Row 97
+Date        : 2025-11-17 13:22:58+00:00
+Tweet ID    : 1990410336264954153
+Text (ID)   : @ichannasution Selamat malam Kak. Mohon maaf mengenai pengecekan dan info update seputar perjalanan KA Whoosh, silakan dapat konfirmasi ke layanan pelanggan Kereta Cepat di Call Center: 150909, Whatsapp: 0811-8888-111 (hanya teks), Email: cs@kcic.co.id dan Instagram: @keretacepat_id dengan
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.8614522814750671
+---------------------------------------
+
+Row 98
+Date        : 2025-11-17 13:25:11+00:00
+Tweet ID    : 1990410892714934530
+Text (ID)   : @afannni @Strategi_Bisnis hhehe.... mestinya kalau buat analisa, gunakan data yang benar. Cari dulu data sahihnya. Bukan data2 di medsos.
+
+Utang proyek KCIC itu sudah pernah sy jelaskan, bukan Rp116T lebih, hanya sekitar Rp54T. Bisa cari di twit saya soal ini.
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.5434197187423706
+---------------------------------------
+
+Row 99
+Date        : 2025-11-17 13:26:13+00:00
+Tweet ID    : 1990411152606540214
+Text (ID)   : @DS_yantie Tidak akan mau. Dia sadar butuh kontroversi untuk menutupi kasus kereta cepat dan IKN
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : negative
+Probability : 0.7280033826828003
+---------------------------------------
+
+Row 100
+Date        : 2025-11-17 13:26:36+00:00
+Tweet ID    : 1990411250153537779
+Text (ID)   : Dirut KCIC soal Utang Whoosh: Kita Serahkan ke Danantara
+https://t.co/tYROD9aZxC
+Retweet     : -
+Reply       : -
+Like        : -
+Quote       : -
+Sentiment   : neutral
+Probability : 0.8455386757850647
+---------------------------------------
+
